@@ -23,12 +23,14 @@ ul {
   list-style-type: none;
   display: flex;
   gap: 16px;
+  margin: 0;
+  padding: 0;
 }
 
 a {
   font-size: 22px;
   background: white;
-  padding: 12px;
   /* this removes the line under the links */
   text-decoration: none;
+  padding: 12px;
 }
